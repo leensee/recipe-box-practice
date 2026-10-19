@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+# Virtual env
+.venv/
+
+# Local config / secrets
+config.env
+
+# Local databases / data
+instance/
+data/
+*.db
